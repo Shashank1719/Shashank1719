@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [mPigeon](https://github.com/shahyash452/mPigeon-Messaging-App/tree/master)
 
-- 👨‍💻 All of my projects are available at [20dcs116.wix.com/shashank-shah](20dcs116.wix.com/shashank-shah)
+- 👨‍💻 All of my projects are available at [Shashank's Portfolio](https://20dcs116.wixsite.com/shashank-shah)
 
 - 💬 Ask me about **C++, Competitive Programming, Ethical Hacking, Backend Developement**
 
