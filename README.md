@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Ethical Hacking, Backend Developement**
 
-- 👯 I’m looking to collaborate on [MERN Stack Web App Project](#)
+<!-- - 👯 I’m looking to collaborate on [MERN Stack Web App Project](#) -->
 
-- 🤝 I’m looking for help with [MERN Stack Web App Project](#)
+<!-- - 🤝 I’m looking for help with [MERN Stack Web App Project](#) -->
 
 - 👨‍💻 All of my projects are available at [Shashank's Portfolio](https://20dcs116.wixsite.com/shashank-shah)
 
